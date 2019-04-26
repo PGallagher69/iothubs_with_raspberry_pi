@@ -1,4 +1,4 @@
-# Connecting to the Raspberry Pi #
+# 02 - SSH-ing into the Raspberry Pi #
 
 ## Make sure you’ve installed PuTTY! ##
 

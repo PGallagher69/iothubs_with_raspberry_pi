@@ -1,4 +1,4 @@
-# Connecting to the Raspberry Pi #
+# 01 - Connecting to the Raspberry Pi #
 
 ## Make sure you've install Visual Studio Code! ##
 

@@ -1,4 +1,4 @@
-# Connecting to the Raspberry Pi #
+# 03 - Check the Code is Running #
 
 - Still in PuTTY… Make sure you’re in the “share/NottsDevIoTHub” Directory;
 
