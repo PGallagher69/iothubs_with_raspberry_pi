@@ -1,4 +1,4 @@
-# 11 - Conncting the Raspberry Pi to the Azure IoT Hub #
+# 11 - Connecting the Raspberry Pi to the Azure IoT Hub #
 
 We're now going to connect our Raspberry Pi to our Azure IoT Hub.
 
@@ -71,4 +71,4 @@ We're now going to connect our Raspberry Pi to our Azure IoT Hub.
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 10 - Using Visual Studio Code IoT Toolkit](/10_vs_code_iot_toolkit/README.md) | [Step 12 - Test that the Raspberry Pi can connect to the IoT hub >](/12_test_pi_iot_hub_connection/README.md) |
+| [< Step 10 - Using Visual Studio Code IoT Toolkit](/10_vs_code_iot_toolkit/README.md) | [Step 12 - Test that the Raspberry Pi can connect to the IoT Hub >](/12_test_pi_iot_hub_connection/README.md) |
