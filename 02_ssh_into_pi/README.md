@@ -52,4 +52,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 1 - Connecting to the Raspberry Pi](/01_connecting_to_the_Pi/README.md) | [Step 3 - Checking that the Code is Working >](/3_check_code_running/README.md) |
+| [< Step 1 - Connecting to the Raspberry Pi](/01_connecting_to_the_pi/README.md) | [Step 3 - Checking that the Code is Working >](/03_check_code_running/README.md) |
