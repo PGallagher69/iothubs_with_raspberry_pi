@@ -31,7 +31,7 @@ We're now going to create a Shared Access Policy. This will allow us to connect 
 - Tick all of the permissions;
 
 <p align="center">
-    <img src="images/04_shared_access_policy_all_permissions.png" width="300px" >
+    <img src="images/05_shared_access_policy_all_permissions.png" width="300px" >
 </p>
 
 - Press the “Create” button at the Bottom;
