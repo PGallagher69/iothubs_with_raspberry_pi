@@ -14,3 +14,5 @@ Welcome to the Workshop Steps for my Azure IoT Hubs with Raspberry Pi and Node.j
 8. [Create a Shared Access Policy](/08_create_shared_access/README.md)
 9. [Using the Device Explorer Twin](/09_device_explorer_twin/README.md)
 10. [Using Visual Studio Code IoT Toolkit](/10_vs_code_iot_toolkit/README.md)
+11. [Conncting the Raspberry Pi to the Azure IoT Hub](/11_connect_pi_to_iot_hub/README.md)
+12. [Test the Raspberry Pi IoT Hub Connection](/12_test_pi_iot_hub_connection/README.md)

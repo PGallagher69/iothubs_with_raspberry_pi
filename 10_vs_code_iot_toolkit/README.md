@@ -1,4 +1,4 @@
-# 09 - Using the Windows Device Explorer Twin #
+# 10 - The Visual Studio Code Azure IoT Toolkit Extension #
 
 We're now going to use the Visual Studio Code IoT Toolkit Extension to Connect to our Azure IoT Hub.
 
