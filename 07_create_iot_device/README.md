@@ -1,4 +1,4 @@
-# 06 - Create an Azure IoT Hub #
+# 07 - Create an Azure IoT Device #
 
 We're now going to create an Azure IoT Device within our IoT Hub.
 
