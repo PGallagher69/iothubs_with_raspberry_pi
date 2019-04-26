@@ -59,4 +59,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Introduction](/README.md) | [Step 2 - SSH Into the Pi >](/2_ssh_into_pi/README.md) |
+| [< Introduction](/README.md) | [Step 2 - SSH Into the Pi >](/02_ssh_into_pi/README.md) |
