@@ -2,6 +2,10 @@
 
 We're now going to use the Windows Device Explorer Twin to interact with our new IoT Hub...
 
+If you're using a Mac, then you can skip this step and go straight to the next step;
+
+[Step 10 - Using Visual Studio Code IoT Toolkit >](/10_vs_code_iot_toolkit/README.md)
+
 ## Make sure you've downloaded the Azure IoT Hub Device Explorer ##
 
 ---
