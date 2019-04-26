@@ -1,5 +1,7 @@
 # Connecting to the Raspberry Pi #
 
+## Make sure you've install Visual Studio Code! ##
+
 - Connect to the network using the details provided
 - Open Windows Explorer.
 - In the Address bar type ```\\iothub``` + the number written on your Pi’s Network Socket and press Enter.
@@ -57,4 +59,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Introduction](/README.md) | [Step 2 - SSH Into the Pi >](2-ssh_into_pi.md) |
+| [< Introduction](/README.md) | [Step 2 - SSH Into the Pi >](/2_ssh_into_pi/README.md) |
