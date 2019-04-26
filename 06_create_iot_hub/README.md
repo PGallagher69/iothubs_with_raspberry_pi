@@ -106,4 +106,4 @@ We're now going to create an Azure IoT Hub through the Azure Portal.
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 4 - Raspberry Pi Azure Setup](/04_pi_azure_setup/README.md) | [Step 6 - Creating an Azure IoT Hub >](/06_create_iot_hub/README.md) |
+| [< Step 5 - Adding a "security.json" file](/05_add_security_json/README.md) | [Step 7 - Creating an IoT Device >](/07_create_iot_device/README.md) |
