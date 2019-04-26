@@ -61,21 +61,21 @@ We're now going to create an Azure IoT Hub through the Azure Portal.
     <img src="images/10_next_size_scale_button.png" width="500px" >
 </p>
 
-- From the “Pricing and scaling tier” dropdown, select the “F1 Free” option;
+- From the ```Pricing and scaling tier``` dropdown, select the ```F1: Free tier``` option;
 
 <p align="center">
     <img src="images/11_free_tier_pricing.png" width="500px" >
 </p>
 
 - Leave all the other settings as default.
-- Press the “Review + create” button;
+- Press the ```Review + create``` button;
 
 <p align="center">
     <img src="images/12_review_and_create.png" width="500px" >
 </p>
 
 - Check your settings.
-- Press the “Create” button at the bottom of the screen;
+- Press the ```Create``` button at the bottom of the screen;
 
 <p align="center">
     <img src="images/14_create_button.png" width="500px" >
@@ -88,7 +88,7 @@ We're now going to create an Azure IoT Hub through the Azure Portal.
     <img src="images/15_deploying_progress.png" width="500px" >
 </p>
 
-- Or you can click the “Notification” icon (A bell) in the top right corner;
+- Or you can click the ```Notification``` icon (A bell) in the top right corner;
 
 <p align="center">
     <img src="images/16_deploying_progress_notifications.png" width="500px" >
@@ -98,7 +98,7 @@ We're now going to create an Azure IoT Hub through the Azure Portal.
 
 - While it’s deploying, double check that you’ve got the “Azure IoT Device Explorer Twin” installed
 
-- When it’s completed deploying click the “Go to Resource” button to go to your new IoT hub.
+- When it’s completed deploying click the ```Go to Resource``` button to go to your new IoT hub.
 
 <p align="center">
     <img src="images/17_deployed_go_to_resource_button.png" width="500px" >
