@@ -1,4 +1,4 @@
-# 03 - Raspberry Pi Azure IoT Hub Setup #
+# 04 - Raspberry Pi Azure IoT Hub Setup #
 
 - Still in PuTTY… Make sure you’re in the “share/NottsDevIoTHub” Directory;
 

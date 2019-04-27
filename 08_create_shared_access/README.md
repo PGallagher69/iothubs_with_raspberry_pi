@@ -61,4 +61,4 @@ We're now going to create a Shared Access Policy. This will allow us to connect 
 
 | Previous | Next |
 | -------- | ---- |
-| [< [Step 7 - Creating an IoT Device ](/07_create_iot_device/README.md) | [Step 9 - Using the Device Explorer Twin >](/09_device_explorer_twin/README.md) |
+| [< [Step 7 - Creating an IoT Device ](/07_create_iot_device/README.md) | [Step 9 - Using the Device Explorer Twin >](/09_use_device_explorer/README.md) |
