@@ -1,6 +1,6 @@
-# 26 - Routes and EndPoints - Queue #
+# 25 - Routes and EndPoints - Queue #
 
-We're now going to set up some a queue to hold our IoT Hub Messages while they wait to be processed.
+We're now going to set up a queue to hold our IoT Hub Messages while they wait to be processed.
 
 ---
 
