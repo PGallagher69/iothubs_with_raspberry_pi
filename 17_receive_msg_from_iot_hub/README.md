@@ -18,7 +18,7 @@ We're now going to get the next version of Raspberry Pi Code. This version will 
 - The terminal should say ```Your branch is up-to-date with 'origin/08_receive_msg '.```;
 
 <p align="center">
-    <img src="images/02_code_checked_out.pnG" width="400px" >
+    <img src="images/02_code_checked_out.png" width="400px" >
 </p>
 
 - Type the following and press enter to run the code;
@@ -28,7 +28,7 @@ We're now going to get the next version of Raspberry Pi Code. This version will 
 - Wait for the terminal to show “Client Connected”;
 
 <p align="center">
-    <img src="images/03_client_connecteD.png" width="400px" >
+    <img src="images/03_client_connected.png" width="400px" >
 </p>
 
 | Previous | Next |
