@@ -68,4 +68,4 @@ We're now going to use the Visual Studio Code IoT Toolkit Extension to Connect t
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 9 - Using the Device Explorer Twin ](/09_device_explorer_twin/README.md) | [Step 11 - Connecting the Raspberry Pi to the IoT hub >](/11_connect_pi_to_iot_hub/README.md) |
+| [< Step 9 - Using the Device Explorer Twin ](/09_use_device_explorer/README.md) | [Step 11 - Connecting the Raspberry Pi to the IoT hub >](/11_connect_pi_to_iot_hub/README.md) |
