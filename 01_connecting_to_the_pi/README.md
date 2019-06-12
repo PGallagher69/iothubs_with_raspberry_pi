@@ -1,6 +1,6 @@
 # 01 - Connecting to the Raspberry Pi #
 
-## Make sure you've install Visual Studio Code! ##
+## Make sure you've installed Visual Studio Code! ##
 
 - Connect to the network using the details provided
 - Open Windows Explorer.
